@@ -1,2 +1,4 @@
 # FameFinder
- 
+FameFinder is an iOS application built using Swift that leverages Amazon Rekognition's facial recognition capabilities. The app utilizes the AWSRekognition and AWSCore frameworks to interact with Amazon Rekognition services, which are part of the Amazon Web Services (AWS) cloud computing platform.
+
+Amazon Rekognition is a deep learning-powered computer vision service that provides highly accurate facial analysis, face comparison, text detection, and more. It employs state-of-the-art deep convolutional neural network (CNN) architectures that have been pre-trained on massive datasets consisting of millions of labeled images and videos. These deep learning models are designed to automatically learn and extract relevant features from raw pixel data, enabling them to perform tasks such as object detection, facial analysis, and scene understanding with high accuracy.
